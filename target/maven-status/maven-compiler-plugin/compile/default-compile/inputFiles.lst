@@ -1,0 +1,5 @@
+/home/e1066/eclipse-workspace/crudapi/src/main/java/io/manju/vertx/crudapi/service/UserService.java
+/home/e1066/eclipse-workspace/crudapi/src/main/java/io/manju/vertx/crudapi/entity/User.java
+/home/e1066/eclipse-workspace/crudapi/src/main/java/io/manju/vertx/crudapi/Verticle.java
+/home/e1066/eclipse-workspace/crudapi/src/main/java/RedisConnect/RedisJava.java
+/home/e1066/eclipse-workspace/crudapi/src/main/java/io/manju/vertx/crudapi/repository/UserDao.java

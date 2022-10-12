@@ -1,0 +1,5 @@
+io/manju/vertx/crudapi/entity/User.class
+io/manju/vertx/crudapi/repository/UserDao.class
+io/manju/vertx/crudapi/Verticle.class
+io/manju/vertx/crudapi/service/UserService.class
+RedisConnect/RedisJava.class
